@@ -15,7 +15,7 @@ export default function FeaturesSection() {
           >
             <div className="bg-[#F5F5FB] h-full rounded-[24px] p-8 md:p-12">
               <img
-                src="dexpay-landing/attached_assets/dexpay_mock_s2.png"
+                src="attached_assets/dexpay_mock_s2.png"
                 alt="DexPay Mobile App Interface"
                 className="w-full lg:absolute bottom-0 scale-110 left-0 max-h-[500px] object-contain"
               />

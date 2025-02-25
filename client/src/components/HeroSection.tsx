@@ -36,7 +36,7 @@ export default function HeroSection() {
               transition={{ duration: 0.6, delay: 0.2 }}
             >
               <img
-                src="dexpay-landing/attached_assets/dexpay_mock_s1.png"
+                src="attached_assets/dexpay_mock_s1.png"
                 alt="DexPay Mobile App Interface"
                 className="lg:absolute max-w-[300px] bottom-0 -mb-8 lg:-mb-16"
               />
