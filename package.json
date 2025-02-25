@@ -1,0 +1,33 @@
+{
+  "name": "dexpay-landing",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "homepage": "https://hastes.github.io/dexpay-landing",
+  
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-toast": "^1.2.6",
+    "@replit/vite-plugin-shadcn-theme-json": "^0.0.4",
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.20",
+    "class-variance-authority": "^0.7.1",
+    "foreground-child": "^3.3.1",
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.475.0",
+    "preact": "^10.26.2",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "wouter": "^3.6.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.1",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.14",
+    "vite": "^6.2.0"
+  }
+}
