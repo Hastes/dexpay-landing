@@ -5,7 +5,7 @@ import themePlugin from "@replit/vite-plugin-shadcn-theme-json";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/dexpay-landing/',
+  base: '/dexpay-landing',
   plugins: [preact(), themePlugin()],
 
   resolve: {
