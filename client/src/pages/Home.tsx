@@ -10,7 +10,7 @@ export default function Home() {
         <HeroSection />
         <FeaturesSection />
         <iframe
-            src="https://p2p.dextrade.com/swap-view?fromNetworkName=bitcoin&fromTicker=BTC&toNetworkName=ethereum&toTicker=USDT&name=AN+DexPay"
+            src="https://p2p.dextrade.com/swap-view?name=AN+DexPay&widget=1&toNetworkName=ethereum&toTicker=USDT&fromNetworkName=bitcoin&fromTicker=BTC"
             width="100%"
             height="600px" // Adjust as needed
             title="DexPay Swap"
