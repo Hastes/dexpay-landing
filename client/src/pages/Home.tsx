@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import FeaturesSection from "@/components/FeaturesSection";
+import LiquiditySection from "@/components/LiquiditySection";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <main>
         <HeroSection />
         <FeaturesSection />
+        <LiquiditySection />
         <iframe
             src="https://p2p.dextrade.com/swap-view?name=AN+DexPay&widget=1&toNetworkName=ethereum&toTicker=USDT&fromNetworkName=bitcoin&fromTicker=BTC"
             width="100%"

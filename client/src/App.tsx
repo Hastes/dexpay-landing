@@ -6,7 +6,7 @@ import Home from "@/pages/Home";
 function Router() {
   return (
     <Switch>
-      <Route path="/dexpay-landing" component={Home} />
+      <Route path="/" component={Home} />
       <Route component={NotFound} />
     </Switch>
   );
