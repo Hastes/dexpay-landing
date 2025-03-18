@@ -6,7 +6,7 @@ export default function WidgetDemo() {
           Your Site
         </p>
         <iframe
-          src="https://p2p.dextrade.com/swap-widget?fromNetworkName=solana&fromTicker=USDT&toNetworkName=solana&toTicker=SOAR&name=DEXTRADE"
+          src="https://p2p.dextrade.com/swap-widget?fromNetworkName=solana&fromTicker=USDT&toNetworkName=solana&toTicker=SOAR&name=AN DexPay"
           width="100%"
           height="600px"
           title="DexPay Swap"
