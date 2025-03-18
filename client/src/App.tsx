@@ -9,8 +9,8 @@ function Router() {
   return (
     <Wouter hook={useHashLocation}>
       <Route path="/" component={Home} />
-      <Route path="/cryproswap-widget-demo" component={WidgetDemo} />
-      <Route component={NotFound} />
+      <Route path="/widget-demo" component={WidgetDemo} />
+      {/* <Route component={NotFound} /> */}
     </Wouter>
   );
 }

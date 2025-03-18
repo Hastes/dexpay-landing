@@ -3,14 +3,14 @@ export default function WidgetDemo() {
     <div className="min-h-screen bg-background flex flex-col">
       <main className="flex-grow flex flex-col items-center justify-center py-16">
         <p className="text-4xl font-semibold mb-7 tracking-wider">
-          Iframe Widget
+          Your Site
         </p>
         <iframe
-          src="https://p2p.dextrade.com/swap-widget?fromNetworkName=solana&fromTicker=SOL&toNetworkName=solana&toTicker=SOAR&name=dextrade"
-          width="380px"
-          height="500px" // Adjust as needed
+          src="https://p2p.dextrade.com/swap-widget?fromNetworkName=solana&fromTicker=USDT&toNetworkName=solana&toTicker=SOAR&name=DEXTRADE"
+          width="100%"
+          height="600px"
           title="DexPay Swap"
-          className="border-none rounded-lg shadow-2xl"
+          className="border-none rounded-lg"
         />
       </main>
     </div>
