@@ -93,13 +93,6 @@ export default function LiquiditySection() {
                 >
                   Get Widget Code
                 </Button>
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="bg-[#FFFFFF33] border-white text-white hover:bg-white/30"
-                >
-                  View Documentation
-                </Button>
               </div>
             </div>
           </motion.div>
